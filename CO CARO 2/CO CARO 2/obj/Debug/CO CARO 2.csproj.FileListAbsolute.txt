@@ -1,0 +1,58 @@
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csprojResolveAssemblyReference.cache
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmCoCaro.resources
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.Properties.Resources.resources
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.GenerateResource.Cache
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.exe
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.pdb
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.exe
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.pdb
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmLuatChoi.resources
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.exe
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.pdb
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.exe
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.pdb
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csprojResolveAssemblyReference.cache
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmLuatChoi.resources
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmCoCaro.resources
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.Properties.Resources.resources
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.GenerateResource.Cache
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.exe
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.pdb
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.exe
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.pdb
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csprojResolveAssemblyReference.cache
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmLuatChoi.resources
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmCoCaro.resources
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.Properties.Resources.resources
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.GenerateResource.Cache
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.exe
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.pdb
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.exe
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.pdb
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csprojResolveAssemblyReference.cache
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmLuatChoi.resources
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmCoCaro.resources
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.Properties.Resources.resources
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.GenerateResource.Cache
+C:\Users\QuangTN\Downloads\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.exe.config
+C:\Users\QuangTN\Downloads\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.exe
+C:\Users\QuangTN\Downloads\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.pdb
+C:\Users\QuangTN\Downloads\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.AssemblyReference.cache
+C:\Users\QuangTN\Downloads\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmLuatChoi.resources
+C:\Users\QuangTN\Downloads\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmCoCaro.resources
+C:\Users\QuangTN\Downloads\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.Properties.Resources.resources
+C:\Users\QuangTN\Downloads\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.GenerateResource.cache
+C:\Users\QuangTN\Downloads\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.CoreCompileInputs.cache
+C:\Users\QuangTN\Downloads\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.exe
+C:\Users\QuangTN\Downloads\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.pdb
+D:\code_code\C++\VisualStudio2022\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.AssemblyReference.cache
+D:\code_code\C++\VisualStudio2022\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmLuatChoi.resources
+D:\code_code\C++\VisualStudio2022\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmCoCaro.resources
+D:\code_code\C++\VisualStudio2022\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.Properties.Resources.resources
+D:\code_code\C++\VisualStudio2022\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.GenerateResource.cache
+D:\code_code\C++\VisualStudio2022\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.CoreCompileInputs.cache
+D:\code_code\C++\VisualStudio2022\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.exe
+D:\code_code\C++\VisualStudio2022\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.pdb
+D:\code_code\C++\VisualStudio2022\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.exe.config
+D:\code_code\C++\VisualStudio2022\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.exe
+D:\code_code\C++\VisualStudio2022\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.pdb
